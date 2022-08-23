@@ -1,4 +1,4 @@
 #Desenvolvimento de Sistemas 
-![Python](https://user-images.githubusercontent.com/71889111/186184013-7a174bdf-62ea-42ca-91dc-72a2b0e6d3f0.png)
+![python_vertical_logo_icon_168039](https://user-images.githubusercontent.com/71889111/186184766-ce3f9109-ce6a-4f75-8bbc-05e4dc6739e7.png)
 
 Repositório com finalidade para armazenar os códigos dna linguagem Python.
