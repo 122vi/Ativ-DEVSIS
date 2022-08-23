@@ -1,4 +1,3 @@
-![python_vertical_logo_icon_168039](https://user-images.githubusercontent.com/71889111/186184839-1bbf7928-3190-4800-834e-87be14a8cf5d.png)
-
+![python_vertical_logo_icon_168039 (1)](https://user-images.githubusercontent.com/71889111/186185185-57ee126c-6049-4419-814c-0913e70c6425.png)
 # Desenvolvimento de Sistemas
 Repositório com finalidade para armazenar os códigos na linguagem Python.
